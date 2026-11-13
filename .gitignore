@@ -1,0 +1,10 @@
+﻿# Obsidian - estado local da interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
