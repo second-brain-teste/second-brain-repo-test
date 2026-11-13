@@ -12,6 +12,9 @@ Nota de entrada do cofre. Se você está lendo isto no Obsidian, o pull do GitHu
 - [[Modulo-Alfa]] — módulo de teste com dependência
 - [[Modulo-Beta]] — módulo de teste que depende do Alfa
 - [[Glossario-Teste]] — termos usados nos testes
+
+
+TESTE DOS 10 MINUTOSSS
 - [[Checklist-Validacao]] — o que conferir
 
 EDITADO NOVAMENTE PELO GITHUB
