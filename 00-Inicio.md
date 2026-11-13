@@ -14,4 +14,6 @@ Nota de entrada do cofre. Se você está lendo isto no Obsidian, o pull do GitHu
 - [[Glossario-Teste]] — termos usados nos testes
 - [[Checklist-Validacao]] — o que conferir
 
+EDITADO NO GITHUB
+
 Código de verificação: `SB-TESTE-0001`
